@@ -14,7 +14,8 @@ Our hackathon weather terminal application that uses API's to find out the weath
 - Opens google maps, major airport databases for a friendlier user experience
 
 
-Screenshots
+**Screenshots**
+
 <img width="1029" alt="screenshot 2018-04-04 11 27 41" src="https://user-images.githubusercontent.com/37134133/38400551-d9e8390c-3993-11e8-8bbd-2606b6fcafa7.png">
 
 **Usage**
