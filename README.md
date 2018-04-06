@@ -3,6 +3,7 @@
 Our hackathon weather terminal application that uses API's to find out the weather. It has four cool features that supports GPS, city, airport codes and area codes to help locate the weather.
 
 **Weather App by Arthur Truong & Andrew Pham**
+
 A multifunction, open source weather application for terminal. It gathers the data from https://developer.worldweatheronline.com/ via their public API. 
 
 **Features**
